@@ -1,0 +1,10 @@
+# 빌드/설치/로그 제외
+build/
+install/
+log/
+
+# 캐시 및 임시파일
+*.pyc
+__pycache__/
+.DS_Store
+.vscode/

@@ -1,0 +1,13 @@
+# ROS2 build 결과물 무시
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Arduino 라이브러리 무시
+arduino/library/*.zip
+
+# 공통 무시 항목
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
